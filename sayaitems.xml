@@ -184,11 +184,11 @@
 		winged boots,36452,1000000;
 		Rainbow Necklace,35150,1000000;
 		Winged Backpack,36460,1000000;
-		gnome helmet,30882,1500000;
-		gnome armor,30883,1500000;
-		gnome legs,30884,1500000;
-		gnome shield,30885,1500000;
-		gnome sword,30886,1500000;
+		gnome helmet,30882,900000;
+		gnome armor,30883,900000;
+		gnome legs,30884,900000;
+		gnome shield,30885,900000;
+		gnome sword,30886,900000;
 		pair of soft boots (faster regeneration),2640,500000;
 		
 		Nightmare Horn,22608,1500000;
